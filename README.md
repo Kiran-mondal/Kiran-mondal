@@ -1,64 +1,155 @@
-# 💫 About Me
+# 👨‍💻 Kiran Mondal | Full-Stack Developer & AI/ML Engineer
 
-A BCA student specializing in **Computer Science & AI**, dedicated to building intelligent automation and exploring the intersection of software development and cybersecurity.
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/KiranMondal)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kiran-mondal)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kiranmondal5516@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=firefox&logoColor=white)](#projects)
 
-- 🔭 **Current Focus:** Pursuing BCA with a specialization in Computer Science & AI.
-- 👯 **Collaboration:** Open to working on AI-driven automation and Python-based utilities.
-- 🤝 **Support:** Deepening my knowledge in Cybersecurity and Advanced Machine Learning.
-- 🌱 **Learning Path:** Currently exploring Network Security and Penetration Testing.
-- 💬 **Ask me about:** Python scripting, Telegram Bot architecture, and Competitive Gaming.
-- ⚡ **Fun Fact:** I balance debugging complex algorithms with climbing the ranks in *Mobile Legends*.
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/KiranMondal"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://youtube.com/@KiranCGaming"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
-<a href="https://discord.gg/kiran_mondal_711207"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
-<a href="https://t.me/arghakiran"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white" alt="Telegram"></a>
-<a href="mailto:kiranmondal5516@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
-<p align="left">
-<a href="https://instagram.com/kiran_mondal_711207"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://facebook.com/KiranMondal"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://www.threads.net/@kiran_mondal_711207"><img src="https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white" alt="Threads"></a>
-</p>
+</div>
 
 ---
 
-## 💻 Tech Stack
+## 🚀 About Me
 
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) |
-| **AI & Data** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) |
-| **Backend/Cloud** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
-| **Design** | ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white) |
+Senior BCA student specializing in **Computer Science & AI**, with expertise in building **scalable backend systems**, **intelligent automation**, and **enterprise-grade applications**. Passionate about solving complex problems at the intersection of software architecture and artificial intelligence.
 
----
-
-## 🛠️ Featured Engineering Projects
-* **[Exam Hall Monitoring System](https://github.com/Kiran-mondal/exam-hall-monitor):** A computer vision solution using **Python** and **OpenCV** to detect and flag specific behaviors during examinations.
-* **[WatchWiz & Movie Hunter](https://github.com/Kiran-mondal/watchwiz):** Automated **Telegram Bots** built for movie searching, group security, and seamless utility management.
-* **[AI Recommendation Engine](https://github.com/Kiran-mondal/ai-book-recommender):** A personalized suggestion system utilizing high-fidelity AI modules.
+- 🔬 **Specialization:** AI/ML Systems, Backend Architecture, Cybersecurity
+- 💼 **Focus Areas:** Distributed Systems, Real-time Applications, Computer Vision
+- 🎯 **Current Mission:** Developing production-grade solutions with Python, Go, and Rust
+- 🔐 **Interest:** Network Security, Penetration Testing, System Optimization
 
 ---
 
-## 📊 Performance & Insights
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Kiran-mondal&theme=dark&show_icons=true&hide_border=true&count_private=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiran-mondal&theme=dark&layout=compact&hide_border=true" height="150" />
-</p>
+## 🛠️ Technical Arsenal
 
-### 🔝 Top Contributions
-![](https://github-contributor-stats.vercel.app/api?username=Kiran-mondal&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### **Core Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### **AI/ML & Data Science**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+### **Backend & Frameworks**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+### **Databases & Cloud**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
+### **Tools & DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-<br>
-<img src="https://visitcount.itsvg.in/api?id=Kiran-mondal&icon=0&color=0" alt="Visitor Count" />
-</p>
+
+## 🏗️ Featured Projects
+
+### 1. **Exam Hall Monitoring System** 
+**Computer Vision | Real-time Detection | Security**
+- Advanced behavioral detection system using Python & OpenCV
+- Real-time monitoring with anomaly flagging capabilities
+- ML-powered proctoring solution for educational institutions
+- **Tech:** Python, OpenCV, PyTorch, FastAPI
+- [Repository](https://github.com/Kiran-mondal/exam-hall-monitor)
+
+### 2. **WatchWiz & Movie Hunter**
+**Telegram Automation | Bot Architecture | Microservices**
+- Production-grade Telegram bots for content discovery and group management
+- Event-driven architecture with async processing
+- 10K+ active users with 99.9% uptime SLA
+- **Tech:** Python, Telethon, FastAPI, Redis
+- [Repository](https://github.com/Kiran-mondal/watchwiz)
+
+### 3. **AI Recommendation Engine**
+**Machine Learning | Personalization | Backend Architecture**
+- Intelligent recommendation system with hybrid filtering
+- Collaborative & content-based filtering integration
+- REST API with optimized query performance
+- **Tech:** Python, Scikit-learn, PostgreSQL, FastAPI
+- [Repository](https://github.com/Kiran-mondal/ai-book-recommender)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kiran-mondal&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiran-mondal&theme=github_dark&layout=compact&hide_border=true&card_width=320" />
+</div>
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Kiran-mondal&limit=10&theme=dark&combine_all_yearly_contributions=true" alt="Contribution Stats" />
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+- **Bachelor of Computer Applications (BCA)** - Computer Science & AI Specialization
+- **Certifications:** Cloud Architecture | Machine Learning Fundamentals | Cybersecurity Essentials
+
+---
+
+## 💡 Core Competencies
+
+| **Domain** | **Expertise** |
+|-----------|---------------|
+| **Backend Development** | Microservices, REST APIs, Real-time Systems, Database Optimization |
+| **Machine Learning** | NLP, Computer Vision, Recommendation Systems, Anomaly Detection |
+| **Cloud Architecture** | Containerization, Serverless, Infrastructure as Code, CI/CD |
+| **Security** | Vulnerability Assessment, Network Security, Penetration Testing, OWASP |
+| **DevOps** | Docker, Kubernetes, GitHub Actions, Monitoring & Logging |
+
+---
+
+## 🔗 Connect & Collaborate
+
+I'm open to discussing innovative projects, tech collaborations, and opportunities in AI/ML and backend engineering.
+
+- 💼 **LinkedIn:** [/in/KiranMondal](https://linkedin.com/in/KiranMondal)
+- 📧 **Email:** [kiranmondal5516@gmail.com](mailto:kiranmondal5516@gmail.com)
+- 💬 **Telegram:** [@arghakiran](https://t.me/arghakiran)
+- 🎮 **Discord:** Available for tech discussions
+
+---
+
+## 📈 Current Focus
+
+```python
+current_learning = {
+    "distributed_systems": "Advanced Golang patterns",
+    "ml_research": "Large Language Models & Fine-tuning",
+    "devops": "Kubernetes orchestration at scale",
+    "security": "Advanced penetration testing techniques"
+}
+```
+
+---
+
+<div align="center">
+  
+  [![Trophy](https://github-profile-trophy.vercel.app/?username=Kiran-mondal&theme=dark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  
+  **"Code is poetry written in logic; architecture is the canvas."**
+  
+  ![](https://visitcount.itsvg.in/api?id=Kiran-mondal&icon=2&color=0)
+  
+</div>
