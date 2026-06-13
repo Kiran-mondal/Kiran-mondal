@@ -317,6 +317,113 @@ learning_progression = {
 
 ---
 
+## 🏭 ITI & Industrial Engineering Plans
+
+### **Future Education: 2-Year Industrial Training Institute (ITI) Tracks**
+
+I'm planning to pursue complementary vocational training through ITI (Industrial Training Institute) to expand my skill set into practical engineering domains. This will combine my software expertise with hands-on industrial knowledge.
+
+#### **📌 Primary Track: Petrol (Petroleum) Engineering**
+- **Duration:** 2 years (Post-BCA)
+- **Start Timeline:** 2026-2027
+- **Focus Areas:**
+  - Petroleum technology & extraction systems
+  - Oil & gas processing
+  - Refinery operations
+  - Equipment maintenance & automation
+  - IoT sensor integration for monitoring
+  - Data analysis for production optimization
+  
+- **Integration with Tech Skills:**
+  - Build automation systems using Python/Go
+  - Real-time monitoring dashboards with React
+  - ML models for predictive maintenance
+  - IoT device communication & data pipelines
+  - Cloud-based operational analytics
+
+#### **🔌 Secondary Track: Electronics Engineering**
+- **Duration:** 2 years (Post-BCA)
+- **Start Timeline:** 2026-2027
+- **Focus Areas:**
+  - Electronics circuit design & troubleshooting
+  - Industrial control systems
+  - PLC (Programmable Logic Controllers) programming
+  - Power systems & electrical distribution
+  - Embedded systems development
+  - Hardware-software integration
+
+- **Integration with Tech Skills:**
+  - Embedded C/C++ for microcontroller programming
+  - Circuit simulation & SPICE modeling
+  - Real-time control systems with Rust
+  - IoT frameworks and edge computing
+  - Hardware diagnostics automation
+
+#### **🔄 Combined Career Path: Tech × Industrial Engineering**
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│ Hybrid Career Opportunities After ITI Completion           │
+├─────────────────────────────────────────────────────────────┤
+│                                                              │
+│ 🌐 Options A: Oil & Gas Tech Specialist                     │
+│    └─ Petroleum + Software Integration                      │
+│    └─ IoT platforms for energy sector                       │
+│    └─ Predictive analytics for extraction                   │
+│                                                              │
+│ 🔌 Options B: Industrial Automation Engineer                │
+│    └─ Electronics + Embedded Systems                        │
+│    └─ Factory automation & robotics                         │
+│    └─ Control systems programming                           │
+│                                                              │
+│ 🏗️ Options C: Smart Infrastructure Developer               │
+│    └─ Both Petrol + Electronics knowledge                   │
+│    └─ Advanced IoT & edge computing                         │
+│    └─ Industry 4.0 digital transformation                   │
+│                                                              │
+│ 💡 Options D: Innovation Consultant                         │
+│    └─ Technical expertise across software & hardware        │
+│    └─ System architecture & optimization                    │
+│    └─ Industry modernization projects                       │
+│                                                              │
+└─────────────────────────────────────────────────────────────┘
+```
+
+#### **🎯 2-Year ITI Timeline & Goals**
+
+```
+Year 1 (2026-2027): Foundation & Fundamentals
+├─ Q1: Enroll in ITI program (Petrol or Electronics)
+├─ Q2: Master theoretical concepts & safety protocols
+├─ Q3: Hands-on lab work & equipment training
+├─ Q4: First practical certifications & projects
+
+Year 2 (2027-2028): Advanced Applications & Integration
+├─ Q1: Advanced technical modules & specializations
+├─ Q2: Real industrial internships & placements
+├─ Q3: Combined tech projects (Software + Hardware)
+├─ Q4: Final certification & skill validation
+└─ Outcome: Industry-ready technician + Software engineer
+
+Post-ITI: 2028+
+├─ Career: Hybrid tech-industrial roles
+├─ Specialization: Automation, IoT, or Industry 4.0
+├─ Advancement: Lead engineer or technical consultant
+└─ Mastery: Multi-domain expert in tech + engineering
+```
+
+#### **💼 Skills After ITI Completion**
+
+| Skill Category | Petrol Track | Electronics Track | Both |
+|---|---|---|---|
+| **Technical Knowledge** | Oil/Gas systems | Circuit design | Industrial ops |
+| **Hands-on Skills** | Equipment operation | PCB assembly | Equipment maintenance |
+| **Programming** | Python automation | Embedded C | Real-time systems |
+| **Certifications** | ITI Petroleum | ITI Electronics | Industry licenses |
+| **Career Level** | Technician → Engineer | Technician → Engineer | Senior hybrid roles |
+
+---
+
 ## 📈 Current Focus & Learning Path
 
 ```python
@@ -340,6 +447,18 @@ current_roadmap = {
         "learning": "Advanced penetration testing & bug bounty",
         "certifications": ["OSCP"],
         "timeline": "Q4 2026"
+    },
+    "iti_engineering": {
+        "petrol": {
+            "learning": "Petroleum systems & industrial automation",
+            "timeline": "Start: 2026-2027 (2 years)",
+            "integration": "IoT, predictive maintenance, cloud analytics"
+        },
+        "electronics": {
+            "learning": "Electronics & embedded systems",
+            "timeline": "Start: 2026-2027 (2 years)",
+            "integration": "Hardware automation, real-time systems, edge computing"
+        }
     }
 }
 ```
@@ -371,6 +490,7 @@ current_roadmap = {
 - 🏆 Ranked in top 1% on HackerRank (Python category)
 - 🤝 Contributed to 15+ open-source projects
 - 🎓 Mentored 10+ junior developers in backend architecture
+- 🏭 Planning ITI enrollment for petroleum/electronics engineering (2026-2027)
 
 ---
 
@@ -457,6 +577,7 @@ CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
 - 🔒 **Security by Design** - Never compromise on security
 - 📊 **Data-Driven Decisions** - Metrics over guesses
 - 🤝 **Collaboration** - Knowledge sharing and mentorship
+- 🔧 **Continuous Learning** - Always expanding skill horizons across tech & engineering
 
 ---
 
@@ -471,6 +592,8 @@ CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
 - 💼 Senior Backend Engineer positions
 - 🤖 ML/AI Engineer positions
 - 🏛️ Tech Lead & Architect roles
+- 🏭 Industrial tech & automation projects
+- ⚙️ IoT & embedded systems integration
 
 **📧 Best way to reach:** [kiranmondal5516@gmail.com](mailto:kiranmondal5516@gmail.com)
 
