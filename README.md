@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-Senior BCA student specializing in **Computer Science & AI**, with expertise in building **scalable backend systems**, **intelligent automation**, and **enterprise-grade applications**. Passionate about solving complex problems at the intersection of software architecture and artificial intelligence.
+Senior BCA student specializing in **Computer Science & AI**, with expertise in building **scalable backend systems**, **intelligent automation**, and **enterprise-grade applications**. Passionate about continuous learning and advancing my skills across multiple programming languages and technologies.
 
 - 🔬 **Specialization:** AI/ML Systems, Backend Architecture, Cybersecurity
 - 💼 **Focus Areas:** Distributed Systems, Real-time Applications, Computer Vision
@@ -107,7 +107,7 @@ Senior BCA student specializing in **Computer Science & AI**, with expertise in 
 ## 📊 GitHub Analytics & Contributions
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kiran-mondal&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kiran-mondal&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_ico[...]
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiran-mondal&theme=github_dark&layout=compact&hide_border=true&card_width=320" />
 </div>
 
@@ -169,22 +169,151 @@ Senior BCA student specializing in **Computer Science & AI**, with expertise in 
 
 ---
 
-## 🔗 Connect & Collaborate
+## 🚀 Current Learning & Skill Development
 
-I'm open to discussing innovative projects, tech collaborations, and opportunities in AI/ML and backend engineering.
+### **Programming Language Progression**
 
-<div align="center">
+```
+📊 Language Proficiency Matrix:
 
-| Platform | Link |
-|----------|------|
-| **LinkedIn** | [/in/KiranMondal](https://linkedin.com/in/KiranMondal) |
-| **Email** | [kiranmondal5516@gmail.com](mailto:kiranmondal5516@gmail.com) |
-| **Telegram** | [@arghakiran](https://t.me/arghakiran) |
-| **Discord** | [Server Link](https://discord.gg/kiran_mondal_711207) |
-| **YouTube** | [@KiranCGaming](https://youtube.com/@KiranCGaming) |
-| **Instagram** | [@kiran_mondal_711207](https://instagram.com/kiran_mondal_711207) |
+┌─────────────────────────────────────────────────────────────────┐
+│ Language      │ Level          │ Status                          │
+├─────────────────────────────────────────────────────────────────┤
+│ Python        │ ⭐⭐⭐⭐⭐ Expert    │ ✅ Production-Ready             │
+│ Go            │ ⭐⭐⭐⭐ Advanced   │ 🎯 Intermediate + Moving Up     │
+│ JavaScript    │ ⭐⭐⭐ Intermediate│ ✅ In Active Development        │
+│ TypeScript    │ ⭐⭐⭐ Intermediate│ ✅ In Active Development        │
+│ Rust          │ ⭐⭐ Beginner+   │ 📚 Learning & Exploring         │
+│ Ruby          │ ⭐⭐ Beginner+   │ 📚 Planning to Learn Soon       │
+│ Swift         │ ⭐⭐ Beginner+   │ 📚 Planning to Learn Soon       │
+│ SQL           │ ⭐⭐⭐⭐ Advanced   │ ✅ Production-Ready             │
+└─────────────────────────────────────────────────────────────────┘
 
-</div>
+Legend:
+  ✅ Production-Ready    - Used in real projects & deployments
+  🎯 In Development      - Active learning with practical projects
+  📚 Learning Phase      - Studying concepts & building foundations
+```
+
+### **What I'm Currently Working On**
+
+#### 🔹 **Go (Advanced → Intermediate+)**
+- **Current Focus:** Building microservices and concurrent systems
+- **Projects in Progress:**
+  - Distributed cache system with Go
+  - High-performance REST API service
+  - gRPC service implementation
+- **Timeline:** Mastering advanced patterns by Q3 2026
+- **Expected Level:** Senior-level Go developer
+
+#### 🔹 **Python (Expert)**
+- **Current Focus:** ML/AI models, system optimization
+- **Active Projects:** Exam monitoring, recommendation engines
+- **Role:** Primary language for AI/ML and backend development
+- **Expertise:** FastAPI, Django, Data Science, Automation
+
+#### 🔹 **JavaScript & TypeScript (Intermediate)**
+- **Current Focus:** Frontend development and Node.js backends
+- **Recent Projects:** React components, Next.js applications
+- **Development:** Continuously improving full-stack capabilities
+
+#### 🔹 **Rust (Beginner+ → Learning)**
+- **Current Focus:** Learning memory safety and systems programming
+- **Study Path:** 
+  - ✓ Ownership and borrowing concepts
+  - → Working on: Async/await patterns
+  - ⏳ Next: Building CLI tools & backend services
+- **Timeline:** Reach intermediate by Q4 2026
+- **Goals:** System-level programming, performance-critical applications
+
+#### 🔹 **Ruby & Swift (Planned)**
+- **Ruby:**
+  - Interest: Rails framework, scripting automation
+  - Status: Planning to start learning Q3 2026
+  - Target: Web development & DevOps scripting
+  
+- **Swift:**
+  - Interest: iOS/macOS development
+  - Status: Planning to start learning Q4 2026
+  - Target: Cross-platform mobile development
+
+---
+
+## 🎯 Learning Roadmap & Ongoing Projects
+
+```python
+learning_progression = {
+    "current_phase": "Advanced Development",
+    "active_languages": {
+        "Go": {
+            "status": "Intermediate (Advancing)",
+            "focus": "Microservices, Concurrency, Backend Services",
+            "projects": [
+                "Distributed caching system",
+                "High-performance REST API",
+                "gRPC implementations"
+            ],
+            "goal": "Senior-level proficiency by Q3 2026"
+        },
+        "Python": {
+            "status": "Expert",
+            "focus": "ML/AI, Backend optimization, Automation",
+            "projects": [
+                "Production ML models",
+                "AI recommendation systems",
+                "FastAPI microservices"
+            ],
+            "goal": "Maintain expert-level status"
+        },
+        "JavaScript/TypeScript": {
+            "status": "Intermediate",
+            "focus": "Full-stack development",
+            "projects": [
+                "Next.js applications",
+                "React components",
+                "Node.js backends"
+            ],
+            "goal": "Advanced proficiency by Q3 2026"
+        }
+    },
+    "learning_languages": {
+        "Rust": {
+            "status": "Beginner (Active Learning)",
+            "focus": "Systems programming, Async patterns",
+            "resources": [
+                "The Rust Book",
+                "System design patterns",
+                "Performance optimization"
+            ],
+            "timeline": "Intermediate by Q4 2026"
+        },
+        "Ruby": {
+            "status": "Planned",
+            "focus": "Rails framework, Automation scripting",
+            "timeline": "Start: Q3 2026"
+        },
+        "Swift": {
+            "status": "Planned",
+            "focus": "iOS/macOS development",
+            "timeline": "Start: Q4 2026"
+        }
+    },
+    "skill_development": {
+        "distributed_systems": "Advanced patterns & system design",
+        "ml_research": "LLMs, fine-tuning, multi-modal models",
+        "devops": "Kubernetes advanced patterns & GitOps",
+        "cloud_architecture": "Multi-cloud strategies & serverless"
+    }
+}
+```
+
+### **📈 Current Learning Achievements**
+- ✅ Completed Go fundamentals & concurrent programming
+- ✅ Built production-grade microservices in Go
+- ✅ Advanced Python expertise in ML/AI
+- ✅ Intermediate JavaScript/TypeScript skills
+- 🚀 Active Rust learning journey started
+- 📚 Planning Ruby and Swift learning tracks
 
 ---
 
