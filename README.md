@@ -64,17 +64,16 @@
 </p>
 
 ---
-
 ### 📫 Connect With Me
 
 Let's discuss open-source contributions, code quality, or collaboration tracks!
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rinkurinku.kiran@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Rinkumondal_123)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1GqqeRRiA5/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kiranmondal5516@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arghakiran)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1GPDWGRQ7v/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kiran_mondal_711207?igsh=MWY4MmJrczJ2bW15Zw==)
+[![Arattai](https://img.shields.io/badge/Arattai-000000?style=for-the-badge&logo=rocket&logoColor=white)](https://arattai/user/@arghakiran)
 
----
 
 <p align="center">
-  <i>"Striving for clean code, structured pipelines, and continuous personal growth."</i>
-</p>
+  <i>"Striving for clean code, structured pipelines, and continuous personal growt
