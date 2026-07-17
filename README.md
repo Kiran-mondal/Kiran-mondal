@@ -1,5 +1,5 @@
 # I'm Kiran Mondal 👋 
-### 🚀 Code Analyst & Open-Source Contributor
+### 🚀 Code Analyst & Open-Source Contributor / Developer 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Status">
