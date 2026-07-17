@@ -57,11 +57,20 @@
 
 ---
 
-### 📊 GitHub Analytics & Contributions
+### 📊 GitHub Stats & Analytics
 
 <p align="center">
+  <!-- Dynamic Activity Graph (The one that works perfectly for you) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kiran-mondal&theme=react-dark" alt="Kiran's Activity Graph" width="100%" />
 </p>
+
+<p align="center">
+  <!-- Reliable alternative Profile Summary Metrics -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kiran-mondal&theme=neutral" alt="GitHub Metrics" width="58%" height="58%" />
+  <!-- Reliable alternative Top Languages Tracker -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kiran-mondal&theme=neutral" alt="Top Languages" width="38%" />
+</p>
+
 
 ---
 ### 📫 Connect With Me
