@@ -8,7 +8,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Status">
-  <img src="https://img.shields.io/badge/Experience-2+%20Years-blue?style=flat-square" alt="Experience">
+  <img src="https://img.shields.io/badge/Experience-1+%20Years-blue?style=flat-square" alt="Experience">
   <img src="https://img.shields.io/badge/Focus-Code%20Quality%20%26%20Analytics-orange?style=flat-square" alt="Focus">
 </p>
 
