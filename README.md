@@ -49,12 +49,12 @@ A BCA student specializing in **Computer Science & AI**, dedicated to building i
 
 ## 📊 Performance & Insights
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Kiran-mondal&theme=dark&show_icons=true&hide_border=true&count_private=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiran-mondal&theme=dark&layout=compact&hide_border=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kiran-mondal&theme=dark&show_icons=true&hide_border=true&count_private=true" height="150" alt="GitHub Readme Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiran-mondal&theme=dark&layout=compact&hide_border=true" height="150" alt="Top Languages" />
 </p>
 
 ### 🔝 Top Contributions
-![](https://github-contributor-stats.vercel.app/api?username=Kiran-mondal&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Contributions](https://github-contributor-stats.vercel.app/api?username=Kiran-mondal&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 <p align="center">

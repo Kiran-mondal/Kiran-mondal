@@ -1,0 +1,3 @@
+## 2024-10-18 - Missing Alt Text on Dynamically Generated Images
+**Learning:** Even dynamically generated profile images, such as GitHub stats and top language metrics, need `alt` attributes to ensure screen readers can understand the purpose of the visuals. In Markdown, leaving out the `alt` text defaults to announcing the URL, which is often not useful.
+**Action:** Always verify that dynamic dashboard/profile badge images have an appropriate `alt` text or descriptive equivalent.
